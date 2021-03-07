@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(109, 109, 109);
+}
+
+.container {
+    background-color: white;
+    width: 600px;
+    height: auto;
+}
+
+.dots{
+    font-size: 35px ;
+    text-align: end;
+    background-color: red;
+    vertical-align: 0mm;
+}
+
+.user{
+    margin: 10px 0px 10px 0px;
+}
+
+.fab{
+    height: 1px;
+}
+
+p {
+    margin:0px;
+   
+}
+.html5{
+    font-size: 40px;
+    justify-content: center;
+}
+
+.icons{
+    font-size: 40px;
+    text-align: end
+}
+.header{
+    height: 80px;
+}
